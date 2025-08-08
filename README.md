@@ -172,28 +172,6 @@ If you encounter issues:
 3. Ensure all required APIs are enabled and billing is active
 4. Check that your API key has the necessary permissions
 
-## Project Structure
-
-\`\`\`
-my-places-app/
-├── app/
-│ ├── page.tsx # Main application component
-│ ├── layout.tsx # Root layout
-│ ├── env-setup.tsx # Environment setup warnings
-│ └── globals.css # Global styles
-├── components/
-│ ├── map-component.tsx # Google Maps integration
-│ ├── sidebar.tsx # Places list and management
-│ ├── search-bar.tsx # Places search functionality
-│ ├── save-place-modal.tsx # Modal for naming places
-│ └── ui/ # Reusable UI components
-├── hooks/
-│ └── use-google-maps.ts # Google Maps loading hook
-├── .env.local # Environment variables (not in git)
-├── .gitignore # Git ignore rules
-└── README.md
-\`\`\`
-
 ## License
 
 MIT License - feel free to use this project for learning and personal use.
