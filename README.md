@@ -47,7 +47,7 @@ A web application that allows users to save and organize their favorite places u
 
 ### Demo Video
 
-![Demo](assets/video.webm)
+<iframe src="https://player.vimeo.com/video/1108479955" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Demo Video"></iframe>
 
 ## Setup Instructions
 
