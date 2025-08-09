@@ -80,9 +80,9 @@ NEXT_PUBLIC_GOOGLE_MAPS_API_KEY=your_api_key_here
 
 ### 3. Install and Run
 
-bash
-npm install
-npm run dev
+- bash
+- npm install
+- npm run dev
 
 ## Deployment
 
